@@ -174,11 +174,11 @@ section{
   }
 
   .shadow-python {
-    filter: drop-shadow(0 0 5px var(--color-scss));
+    filter: drop-shadow(0 0 5px var(--color-python));
   }
 
   .shadow-c {
-    filter: drop-shadow(0 0 5px var(--color-js));
+    filter: drop-shadow(0 0 5px var(--color-c));
   }
 
   /* Circle Animation Styles */
